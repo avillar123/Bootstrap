@@ -1,8 +1,12 @@
 # Bootstrap
 Bootstrap Scripts
 
-Example of bootstrap table responsive by bootsnipp.com
+<h3>Demo:</h3>
 
-Taken from
-http://bootsnipp.com/snippets/featured/no-more-tables-respsonsive-table
-https://elvery.net/demo/responsive-tables/#no-more-tables
+* <a href="http://codepen.io/anon/pen/BLKqjX?editors=1010">Access the live demo here.</a>
+* <a href="https://jsfiddle.net/bwduceab/">Access the live demo here.</a>
+
+
+<h3>References:</h3>
+
+* https://datatables.net/examples/styling/bootstrap.html
